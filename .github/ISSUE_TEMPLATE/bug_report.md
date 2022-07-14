@@ -19,6 +19,6 @@ assignees: ''
 **Expected**
 <mandatory>
 
-**Attachements**
+**Attachments**
 Log: <attach>
 Screenshots: <attach>
