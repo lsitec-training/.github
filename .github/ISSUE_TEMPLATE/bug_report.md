@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**pre-condition**
+**Precondition**
 <optional>
 
 **Steps**
@@ -20,5 +20,5 @@ assignees: ''
 <mandatory>
 
 **Attachements**
-Log: <Attach>
+Log: <attach>
 Screenshots: <attach>
