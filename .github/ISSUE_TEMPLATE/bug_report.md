@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-**Pré-condição**
-<preencher>
+**pre-condition**
+<optional>
 
-**Passos**
-1. <preencher>
+**Steps**
+1. <mandatory>
 
-**Atual**
-<preencher>
+**Actual**
+<mandatory>
 
-**Esperado**
-<preencher>
+**Expected**
+<mandatory>
 
-**Anexos**
-Log: <anexar>
-Screenshots: <anexar>
+**Attachements**
+Log: <Attach>
+Screenshots: <attach>

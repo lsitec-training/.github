@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Checklist de Release**
-- [ ] Todas as features foram implementadas
-- [ ] Todos os bugs corrigidos
-- [ ] Atualização do nome de versão
-- [ ] Atualização da branch main
-- [ ] Criação da tag no branch main
-- [ ] Criar release
-- [ ] Anexar todos artefatos
+**Release Checklist**
+- [ ] All features were implemented
+- [ ] All bugs were fixed
+- [ ] Update version name
+- [ ] Update main branch
+- [ ] Create tag on main branch
+- [ ] Create release
+- [ ] Attach all artefacts
