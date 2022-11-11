@@ -19,6 +19,9 @@ assignees: ''
 **Expected**
 <mandatory>
 
+**Detected version**
+<mandatory>
+
 **Attachments**
 Log: <attach>
 Screenshots: <attach>
