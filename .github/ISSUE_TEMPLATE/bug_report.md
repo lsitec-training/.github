@@ -13,10 +13,10 @@ assignees: ''
 **Steps**
 1. <mandatory>
 
-**Actual**
+**Expected**
 <mandatory>
 
-**Expected**
+**Actual**
 <mandatory>
 
 **Detected version**
